@@ -41,6 +41,56 @@ p{
     padding: 10px 40px;
     border-radius: 5px;
 }
-.center-text{
+.color-text{
     color:orangered;
+    margin: 0px;
+    margin-bottom: 10px;
+}
+#center-text{
+    text-align: center;
+    margin: 0px;
+}
+.mission-2022{
+    display: flex;
+    margin-right: 40px;
+    padding-rigt: 20px;
+}
+
+.illustrator-1 img{
+    width: 40%;
+}
+.illustrator-1{
+    background-color: powderblue;
+    width: 50%;
+    width: 40%;
+    background-color: powderblue;
+    margin-left: 30px;
+    border-radius: 20px;
+    padding-left: 10px;
+}
+.illustrator-1 img{
+    width:50%;
+}
+.illustrator-2{
+    background-color: cyan;
+    border-radius: 20px;
+    margin-left: 10px;
+    padding-left: 20px;
+    
+}
+.illustrator-2 img{
+    width:50%;
+}
+.illustrator-3{
+    background-color: yellow;
+    border-radius: 20px;
+    margin-left: 10px;
+    padding-left: 20px;
+}
+.illustrator-3 img{
+    width: 40%;
+}
+.mission{
+    margin-right: 10px;
+    padding-left: 10px;
 }
