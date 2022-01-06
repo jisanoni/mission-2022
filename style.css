@@ -1,4 +1,5 @@
 body{
+    font-family:'poppins', sans-serif;
     margin: 0px;
 }
 .red-color{
@@ -9,16 +10,26 @@ h1{
 }
 .flexible-container{
     display: flex;
-    margin-bottom: 150px;
+    margin-bottom: 100px;
 }
 .shorter-width{
-    width: 30%;
+    width: 40%;
     padding: 10%;
 
 }
 .shorter-width img{
-    width: 80%;
+    width: 100%;
+    padding-right: 20%;
+    margin-bottom: 100px;
 }
-section{
-    display: flex;
+p{
+    font-weight: 690px;
+}
+.vertical-line{
+    border: 5px solid orangered;
+    border-bottom: 100px;
+    border-right:100px;
+    border-top: 100px;
+    padding-left: 10px;
+    
 }
