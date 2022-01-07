@@ -131,7 +131,8 @@ p{
     display: flex;
 }
 .last-part img {
-    width: 30%;
+    width: 50%;
+    margin-left: 40px;
 }
 .global{
     margin-top: 50px;
@@ -139,5 +140,11 @@ p{
 }
 .project{
     margin-top: 40px;
-    
+    background-image:url(images/shapes/shape-1.png);
+    background-size: 230px;
+    background-repeat: no-repeat;
+    background-position: right;
+    margin-left: 140px;
+    background-position: relative;
+    margin-right: 220px;
 }
