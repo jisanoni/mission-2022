@@ -129,5 +129,15 @@ p{
     }
 .last-part{
     display: flex;
+}
+.last-part img {
+    width: 30%;
+}
+.global{
+    margin-top: 50px;
+    margin-left: 70px;
+}
+.project{
+    margin-top: 40px;
     
 }
