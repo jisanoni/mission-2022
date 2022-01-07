@@ -148,3 +148,15 @@ p{
     background-position: relative;
     margin-right: 220px;
 }
+.end{
+    text-align: center;
+    margin-top: 200px;
+    background-color: black;
+    color: white;
+    padding-bottom: 30px;
+    padding-top:30px;
+}
+#blue{
+    color:orangered;
+    font-family: 'popins' sans-serif;
+}
